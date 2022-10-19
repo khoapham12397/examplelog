@@ -5,6 +5,7 @@ void solve(){
     // add something 
     // add 1 line
 }
+void cal(){}
 int main(){
     cout << "ok" <<endl;
     cout << "hello" <<endl;        
