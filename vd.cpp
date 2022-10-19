@@ -3,6 +3,7 @@ using namespace std;
 void solve(){
     // hello
     // add something 
+    int n;
 }
 void cal(){}
 int main(){
