@@ -5,6 +5,9 @@ void solve(){
     int x = 10;
     for(int i=0;i<10;i++) x+=i;
 }
+void fact(){
+    
+}
 int main(){
     cout << "ok" <<endl;
     cout << "hello" <<endl;        
