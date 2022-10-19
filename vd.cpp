@@ -6,7 +6,9 @@ void solve(){
     // add 1 line
     int n;
 }
-void cal(){}
+void cal(){
+    int x =10;
+}
 int main(){
     cout << "ok" <<endl;
     cout << "hello" <<endl;        
