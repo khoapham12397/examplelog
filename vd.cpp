@@ -4,6 +4,7 @@ void solve(){
     // hello
     // add something 
 }
+void cal(){}
 int main(){
     cout << "ok" <<endl;
     cout << "hello" <<endl;        
