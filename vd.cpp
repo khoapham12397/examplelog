@@ -4,6 +4,7 @@ void solve(){
     // hello
     // add something 
     // add 1 line
+    int n;
 }
 void cal(){}
 int main(){
