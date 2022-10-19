@@ -9,6 +9,9 @@ void solve(){
 void fact(){
     // and we have this
 }
+void djk(){
+    //heko
+}
 int main(){
     cout << "ok" <<endl;
     cout << "hello" <<endl;        
