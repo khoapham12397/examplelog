@@ -7,7 +7,8 @@ void solve(){
     int n;
 }
 void cal(){
-    int x =10;
+    int x = 10;
+    for(int i=0;i<10;i++) x+=i;
 }
 int main(){
     cout << "ok" <<endl;
